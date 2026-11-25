@@ -1,0 +1,12 @@
+[
+{"id":"cueca","title":"Cueca Sexy para a noite de núpcia","amount":20723,"image":"/images/cueca.webp","category":"Vida a dois","badge":"O romance está no ar","available":true,"order":1},
+{"id":"buffet","title":"Prioridade na fila do buffet","amount":16437,"image":"/images/buffet.webp","category":"O grande dia","badge":"Para os bons de garfo","available":true,"order":2},
+{"id":"julius","title":"Só para dizer que não dei nada","amount":4383,"image":"/images/julius.webp","category":"Só pela resenha","badge":"O que vale é a intenção","available":true,"order":3},
+{"id":"cooktop","title":"Cooktop de última geração","amount":43832,"image":"/images/cooktop.webp","category":"Lar, doce lar","badge":"Tecnologia de ponta","available":true,"order":4},
+{"id":"calmante","title":"Kit calmante para desestressar a noiva","amount":15607,"image":"/images/calmante.webp","category":"O grande dia","badge":"Paz, amor e paciência","available":true,"order":5},
+{"id":"capacete","title":"Capacete para o noivo caso o kit calmante não funcione","amount":20809,"image":"/images/capacete.webp","category":"Vida a dois","badge":"Segurança em primeiro lugar","available":true,"order":6},
+{"id":"convidado","title":"Levar alguém que não foi convidado","amount":2080949,"image":"/images/convidado.webp","category":"O grande dia","badge":"Uma pequena taxa de ousadia","available":true,"order":7},
+{"id":"palpite","title":"Dar palpite sobre o casamento","amount":82893,"image":"/images/palpite.webp","category":"Só pela resenha","badge":"Opinião com valor agregado","available":true,"order":8},
+{"id":"almoco","title":"Primeiro almoço na casa dos noivos","amount":22796,"image":"/images/almoco.webp","category":"Lar, doce lar","badge":"O chef recomenda","available":true,"order":9},
+{"id":"cobertor","title":"Cobertor para noiva que está sempre coberta de razão","amount":15542,"image":"/images/cobertor.webp","category":"Vida a dois","badge":"Discussão encerrada","available":true,"order":10}
+]
